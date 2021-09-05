@@ -13,7 +13,7 @@ WebScraper using Node.js, Puppeteer, cheerio and mongoDB.
 
 With REST-API(Express) and frontend(Vue.js).
 
-Live version: https://icy-hill-07a88c603.azurestaticapps.net/records/Horrem/Aachen
+Live version: https://icy-hill-07a88c603.azurestaticapps.net/
 
 ## [Catan victory points counter](https://github.com/LukasJuelich/catan-counter)
 React web app to keep track of the victory points for the board game *The Settles of Catan*.
