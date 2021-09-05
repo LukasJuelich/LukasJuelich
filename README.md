@@ -13,8 +13,12 @@ WebScraper using Node.js, Puppeteer, cheerio and mongoDB.
 
 With REST-API(Express) and frontend(Vue.js).
 
-## [Catan victory points counter](https://catancounter.com/)
+Live version: https://icy-hill-07a88c603.azurestaticapps.net/records/Horrem/Aachen
+
+## [Catan victory points counter](https://github.com/LukasJuelich/catan-counter)
 React web app to keep track of the victory points for the board game *The Settles of Catan*.
+
+Live version: https://catancounter.com/
 
 ## [Yu-Gi-Oh life points counter](https://yugiohlifepoints.com/)
 React web app to keep track of the life point totals for the trading card game *Yu-Gi-Oh*.
