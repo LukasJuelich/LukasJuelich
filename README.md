@@ -19,6 +19,7 @@ Live version: https://icy-hill-07a88c603.azurestaticapps.net/
 React web app to keep track of the victory points for the board game *The Settles of Catan*.
 
 Live version: https://catancounter.com/
+
 Google play store: https://play.google.com/store/apps/details?id=com.catancounter.app
 
 ## [Yu-Gi-Oh life points counter](https://yugiohlifepoints.com/)
